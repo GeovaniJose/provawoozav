@@ -1,0 +1,22 @@
+.main-footer {
+  background: #f7931e;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+}
+
+.main-footer > p {
+  color: #333;
+  font-weight: bold;
+  opacity: 0.5;
+}
+
+.main-footer > p:last-child {
+  color: #333;
+  font-weight: bold;
+  opacity: 1;
+}
