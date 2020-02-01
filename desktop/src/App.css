@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background: #434a56;
+}
+
+body, input, button {
+  font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+}
