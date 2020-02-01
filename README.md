@@ -1,6 +1,6 @@
 # provawoozav
 
-<img src='./desktop/snapshot.png' />
+<img src='./desktop/snapshot.PNG' />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
