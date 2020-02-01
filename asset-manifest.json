@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/provawoozav/static/css/main.365b9538.chunk.css",
+    "main.js": "/provawoozav/static/js/main.ffdf462c.chunk.js",
+    "main.js.map": "/provawoozav/static/js/main.ffdf462c.chunk.js.map",
+    "runtime-main.js": "/provawoozav/static/js/runtime-main.258548e2.js",
+    "runtime-main.js.map": "/provawoozav/static/js/runtime-main.258548e2.js.map",
+    "static/js/2.5d3324b1.chunk.js": "/provawoozav/static/js/2.5d3324b1.chunk.js",
+    "static/js/2.5d3324b1.chunk.js.map": "/provawoozav/static/js/2.5d3324b1.chunk.js.map",
+    "index.html": "/provawoozav/index.html",
+    "precache-manifest.0f1de75e47f4ca320d0f0a4f6ba5a678.js": "/provawoozav/precache-manifest.0f1de75e47f4ca320d0f0a4f6ba5a678.js",
+    "service-worker.js": "/provawoozav/service-worker.js",
+    "static/css/main.365b9538.chunk.css.map": "/provawoozav/static/css/main.365b9538.chunk.css.map",
+    "static/js/2.5d3324b1.chunk.js.LICENSE": "/provawoozav/static/js/2.5d3324b1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.258548e2.js",
+    "static/js/2.5d3324b1.chunk.js",
+    "static/css/main.365b9538.chunk.css",
+    "static/js/main.ffdf462c.chunk.js"
+  ]
+}
