@@ -27,6 +27,11 @@
   box-shadow: 5px 5px 2px 0 rgba(247, 147, 30, 0.6);
 }
 
+.main-container > ul > li:hover {
+  transition: 0.3s;
+  box-shadow: 7px 7px 2px 0 rgba(247, 147, 30, 0.6);
+}
+
 .main-container > ul > li > img {
   width: 50%;
   margin: 0 auto;
